@@ -10,3 +10,7 @@ example} 송상준 0001
 [MarkDown 문법]: http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
 [Git 명령어]: http://blog.outsider.ne.kr/572
 
+안녕하세요
+저는 신구대학교 14학번 배수빈이라고 합니다.
+잘부탁드립니다.
+열심히하겠습니다.
